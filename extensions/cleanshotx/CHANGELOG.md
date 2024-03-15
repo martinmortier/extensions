@@ -1,5 +1,9 @@
 # Cleanshot X Changelog
 
+## [Update] - 2024-03-15
+
+- Added extension keywords
+
 ## [Update] - 2023-11-17
 
 - Added documentation

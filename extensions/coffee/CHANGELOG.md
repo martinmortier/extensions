@@ -1,5 +1,9 @@
 # Coffee Changelog
 
+## [Update] - 2024-03-15
+
+- Added extension keywords
+
 ## [Update] - 2024-03-14
 
 - Added the possibility to hide the icon when decaffeinated
