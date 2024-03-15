@@ -22,7 +22,13 @@
     "tleo19"
   ],
   "keywords": [
-    "vscode"
+    "vscode",
+    "code",
+    "cursor",
+    "codium",
+    "VSCodium",
+    "editor"
+
   ],
   "license": "MIT",
   "commands": [
